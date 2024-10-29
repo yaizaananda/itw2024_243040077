@@ -1,0 +1,54 @@
+body {
+    font-family: georgia;
+    background-image: url('foto.png');
+    background-repeat: repeat-x;
+}
+h1{
+    font-family:'comic sans ms';
+    font-size:60px ;
+    color: darkblue;
+    text-align:center;
+}
+
+h4{
+    text-align:center;
+    
+}
+p{
+    text-align:center;
+    
+}
+#adalah{
+    color: orange;
+}
+#adalah3{
+    color: red;
+   
+    
+
+}
+#adalah3:hover{
+    color: white;
+}
+
+h3{
+    text-align: center;
+    font-variant: small-caps;
+}
+
+
+#adalah4:hover{
+    background-color: blue;
+    color: white;
+   
+
+}
+ #adalah4{
+    font-weight: bold;
+    text-decoration: none;
+ }
+
+ #mau{
+    text-align: right;
+    line-height: 25px;
+ }

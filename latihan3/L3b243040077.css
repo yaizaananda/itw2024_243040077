@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+    font-family: georgia;
+}
+h1 {
+    font-family: "Comic Sans MS";
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+}
+h4 {
+    text-align: right;
+    font-style: italic;
+}
+p {text-align: justify;}
+.warnaputih {
+    color: whitesmoke;
+    font-variant: small-caps;
+}
+.warnakuning {
+    color: orangered;
+    text-align: center;
+    line-height: 1;
+}
+.tengah {
+    text-align: center;
+    line-height: 2;
+}

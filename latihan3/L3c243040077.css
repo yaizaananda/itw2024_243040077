@@ -1,0 +1,52 @@
+body{
+    background-color: aqua;
+    font-family:Georgia;
+}
+h1{
+    font-family:'comic sans ms';
+    font-size:60px ;
+    color: darkblue;
+    text-align:center;
+}
+
+h4{
+    text-align:right;
+    
+}
+p{
+    text-align:center;
+}
+#adalah{
+    color: orange;
+}
+#adalah3{
+    color: white;
+    
+
+}
+#adalah3:hover{
+    color: red;
+    text-decoration: none;
+}
+
+
+
+#adalah4:hover{
+    background-color: blue;
+    color: white;
+
+}
+ #adalah4{
+    font-weight: bold;
+    text-decoration: none;
+ }
+
+ h3{
+    
+    font-variant: small-caps;
+}
+
+#mau{
+   text-align: right;
+   line-height: 25px;
+}
