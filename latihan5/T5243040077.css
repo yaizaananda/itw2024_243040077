@@ -68,7 +68,7 @@
 }
 
 .inti{
-    background-image: url(backgroud-img.jpg);
+   background-image: url(backgroud-img.jpg) ;
 }
 
 
@@ -87,3 +87,15 @@
     margin-top: -10px;
     margin-left: 50px;
 }
+.gambar-inti .menu-item2 img{
+    width: 200px;
+    height: 120px;
+    border-radius: 50px;
+    margin: 20px 20px 20px 10px;
+    margin-left: 8px;
+   }
+   
+   .gambar-inti .menu-item2 h3{
+       margin-top: -10px;
+       margin-left: 50px;
+   }
