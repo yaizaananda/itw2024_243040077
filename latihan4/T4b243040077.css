@@ -4,7 +4,6 @@ body {
     background-color: #eaeaea;
     background-image: url(img.b/PawPattern.jpg.jpg);
     color: 333;
-   
 }
 .container {
     width: 800px;
@@ -30,15 +29,17 @@ body {
     padding: 3px;
 }
 .header a:hover {
-    background-color: lightskyblue;
+    background-color: salmon;
     color: white;
 }
 .hero {
+    align-items: center;
     height: 400px;
     width: 420px;
     background-image: url(img.b/wlee\ cat.jpg);
     background-size: contain;
     background-position:0  ;
+    margin: auto;
     border-top: 5px solid salmon;
     border-bottom: 5px solid salmon;
 }
@@ -62,13 +63,14 @@ body {
     font-size: 14px;
 }
 .hero2 {
-    height: 400px;
-    width: 350px;
-    background-image: url(img.b/waterfallcat2.jpg)
+    height:600px;
+    width: 600px;
+    background-image: url(img.b/waterfallcat2.jpg);
     background-size: cover;
-    background-position:0 -180 ;
+    background-position:0 -1 ;
     border-top: 5px solid salmon;
-    border-bottom: 5px solid lightskyblue;
+    border-bottom: 5px solid salmon;
+    margin: auto;
 }
 .content {
     padding: 20px;
@@ -82,12 +84,15 @@ body {
     font-size: 14px;
 }
 .hero3 {
-    height: 550px;
+    align-items: center;
+    height: 500px;
+    width: 700px;
     background-image: url(img.b/Mug\ Cat.jpg);
     background-size: cover;
     background-position:0 -180 ;
     border-top: 5px solid salmon;
-    border-bottom: 5px solid lightskyblue;
+    border-bottom: 5px solid salmon;
+    margin: auto;
 }
 .content {
     padding: 20px;
@@ -106,7 +111,8 @@ body {
     background-size: cover;
     background-position:0 -180 ;
     border-top: 5px solid salmon;
-    border-bottom: 5px solid lightskyblue;
+    border-bottom: 5px solid salmon;
+    margin: auto;
 }
 .content {
     padding: 20px;
@@ -120,12 +126,14 @@ body {
     font-size: 14px;
 }
 .hero5 {
-    height: 400px;
+    height: 410px;
+    width: 600;
     background-image: url(img.b/Eepy\ alien\ cat.jpg);
     background-size: cover;
     background-position:0 -180 ;
     border-top: 5px solid salmon;
-    border-bottom: 5px solid lightskyblue;
+    border-bottom: 5px solid salmon;
+    margin: auto;
 }
 .content {
     padding: 20px;

@@ -1,0 +1,89 @@
+/*style*/
+.header {
+   background-color: #133E87;
+   color: #fff;
+   padding: 20px; 
+   padding-left: 150px;
+   padding-right: 150px;
+}
+.header ul li{
+    display: inline;
+}
+
+.header ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    width: 5px;
+}
+
+.header ul li a:hover{
+    background-color: rgb(131, 166, 215);
+    color: #133E87;
+}
+
+.container{
+    border-bottom: 5px #fff;
+}
+  
+
+.judul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.body {
+    width: 900px;
+    margin: auto;
+    background-color: white;
+}
+.pembuka {
+    background-color: #788092;
+    margin-left: 2px;
+}
+
+
+
+.footer {
+    background-color: #9f9999;
+    padding: 10px;
+}
+.footer.copy {
+   color: #eaeaea; 
+   text-align: center;
+   font-size: 12px;
+}
+
+
+
+.gambar-inti{
+    height: 200px;
+    box-shadow: 1px 1px 1px ;
+    background-color: rgb(107, 116, 126);
+    display: flex;
+  
+}
+
+.inti{
+    background-image: url(backgroud-img.jpg);
+}
+
+
+.pink{
+    margin: 10px;
+}
+
+.gambar-inti .menu-item1 img{
+ width: 200px;
+ border-radius: 50px;
+ margin: 20px 20px 20px 10px;
+ margin-left: 8px;
+}
+
+.gambar-inti .menu-item1 h3{
+    margin-top: -10px;
+    margin-left: 50px;
+}
