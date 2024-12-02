@@ -148,11 +148,10 @@ body {
 }
 
 .footer {
-    background-color: #333;
-    padding: 10px;
+    background-color: #9f9999;
+    padding: 8px;
 }
 .footer.copy {
-   color: #eaeaea; 
-   text-align: center;
-   font-size: 12px;
+    background-color: #9f9999;
+    padding: 5px;
 }

@@ -6,6 +6,7 @@
    padding-left: 150px;
    padding-right: 150px;
 }
+
 .header ul li{
     display: inline;
 }
@@ -15,6 +16,7 @@
     text-decoration: none;
     padding: 5px;
     width: 5px;
+    align
 }
 
 .header ul li a:hover{
@@ -25,7 +27,7 @@
 .container{
     border-bottom: 5px #fff;
 }
-  
+
 
 .judul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -40,6 +42,7 @@
     margin: auto;
     background-color: white;
 }
+
 .pembuka {
     background-color: #788092;
     margin-left: 2px;
@@ -51,6 +54,7 @@
     background-color: #9f9999;
     padding: 10px;
 }
+
 .footer.copy {
    color: #eaeaea; 
    text-align: center;
@@ -63,12 +67,12 @@
     height: 200px;
     box-shadow: 1px 1px 1px ;
     background-color: rgb(107, 116, 126);
-    display: flex;
-  
+    display: flex;  
 }
 
+
 .inti{
-   background-image: url(backgroud-img.jpg) ;
+   background-image: url(background2.jpg) ;
 }
 
 
@@ -93,9 +97,8 @@
     border-radius: 50px;
     margin: 20px 20px 20px 10px;
     margin-left: 8px;
-   }
-   
-   .gambar-inti .menu-item2 h3{
-       margin-top: -10px;
-       margin-left: 50px;
-   }
+}
+.gambar-inti .menu-item2 h3{
+    margin-top: -10px;
+    margin-left: 50px;
+}
